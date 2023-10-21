@@ -1,3 +1,3 @@
 # dio_Iphone
 
-<img src="uml.png">
+<img width="50%" src="uml.png">
